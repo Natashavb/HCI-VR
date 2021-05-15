@@ -38,3 +38,4 @@ myOtherBox.addEventListener('click', function(){ // uses a fuse
 	grow();
 	console.log('grew');
 });
+
